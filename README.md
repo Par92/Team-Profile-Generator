@@ -21,6 +21,10 @@
   User should copy the link associated with this repository, and then type the command git clone with the copied link. Then the user should locate the index.js file and type "node index.js" in their terminal. After the user answers a series of prompts, the application will generate their new HTML file in the 'dist' folder. Refer to video below:
   
 
+https://user-images.githubusercontent.com/97469705/157347528-5b50c834-9c6e-4ff9-96f6-343d11c96ce4.mp4
+
+
+
   ## License
   This project is licensed under the MIT license.
 
